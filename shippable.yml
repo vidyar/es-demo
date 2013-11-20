@@ -1,5 +1,4 @@
 language: python
-build_environment : Ubuntu1304
 
 python:
  - "2.7"
